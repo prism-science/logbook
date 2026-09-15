@@ -7,7 +7,7 @@ site_author: "The Diffuse Project"
 extra:
   prism_url: https://prismscience.org
   prism_logo: assets/purple-logo@4x.png
-  prism_title: PRISM
+  prism_title: Prism
   generator: true
 extra_css:
   - stylesheets/extra.css
