@@ -1,12 +1,12 @@
 /* docs/stylesheets/extra.css */
 .md-banner {
-    background-color: #e35821
-        /* From diffuse.science */
+    background-color: #f7f7fb
+        /* From prismscience.org */
     ;
     color: #ffffff;
     padding: 0px;
     text-align: left;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     /* Add more styles as needed */
 }
