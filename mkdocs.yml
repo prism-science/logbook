@@ -11,7 +11,7 @@ extra:
   generator: true
 extra_css:
   - stylesheets/extra.css
-copyright: "&copy; 2026 PRISM."
+copyright: "&copy; 2026 Prism. All rights reserved"
 theme: 
   logo: assets/diffuse-logo-dark-sm.png
   name: material
