@@ -5,19 +5,20 @@ site_url: https://diffuse.science/logbook
 site_description: "A logbook for the Diffuse Project"
 site_author: "The Diffuse Project"
 extra:
-  homepage: https://diffuse.science
-  homepage_title: The Diffuse Project
+  prism_url: https://prismscience.org
+  prism_logo: assets/purple-logo@4x.png
+  prism_title: PRISM
   generator: true
 extra_css:
   - stylesheets/extra.css
-copyright: "&copy; 2025 The Diffuse Project."
+copyright: "&copy; 2026 PRISM."
 theme: 
   logo: assets/diffuse-logo-dark-sm.png
   name: material
   custom_dir: overrides
   palette:
     primary: black
-    accent: orange
+    accent: deep-purple
   features:
 #    - navigation.indexes
     - navigation.tabs

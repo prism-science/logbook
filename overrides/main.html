@@ -4,13 +4,12 @@ This file was automatically generated - do not edit
 {% extends "base.html" %}
 
 {% block announce %}
-
 <div class="md-banner">
-  <a href="https://diffuse.science" style="color: white; text-decoration: none;">
-    The Diffuse Project
+  <a href="{{ config.extra.prism_url }}" style="color: black; text-decoration: none;">
+    <img src="{{ config.extra.prism_logo | url }}" alt="{{ config.extra.prism_title }} Logo" width="25" height="25">
+    {{ config.extra.prism_title }}
   </a>
 </div>
-
 {% endblock %}
 
 {% block content %}
