@@ -26,6 +26,9 @@ theme:
     - navigation.expand
     - navigation.path
     - toc.integrate
+  icon:
+    admonition:
+      danger: material/hammer-wrench  # Changes the icon for '!!! danger' boxes
 plugins:
   - meta
   - tags
